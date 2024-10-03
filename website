@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stagediscriminatie: Wat, Wie, Hoe, Waar, Wanneer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #444;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+        }
+        nav a:hover {
+            background-color: #555;
+        }
+        section {
+            margin: 20px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+        }
+        .contact-section {
+            margin-top: 40px;
+            background-color: #eef;
+            border: 1px solid #ccc;
+            padding: 20px;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Stagediscriminatie: Wat Moet Je Weten</h1>
+</header>
+
+<nav>
+    <a href="#wat">Wat is stagediscriminatie?</a>
+    <a href="#wie">Wie worden getroffen?</a>
+    <a href="#waar">Waar komt het voor?</a>
+    <a href="#wanneer">Wanneer gebeurt het?</a>
+    <a href="#gevolgen">Gevolgen</a>
+    <a href="#oplossingen">Oplossingen</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="wat">
+    <h2>Wat is Stagediscriminatie?</h2>
+    <p>Stagediscriminatie is een vorm van discriminatie waarbij stagiaires of sollicitanten worden benadeeld tijdens het stageproces op basis van persoonlijke kenmerken. Dit kan gebeuren bij het werven en selecteren van stagiaires, maar ook tijdens de uitvoering van de stage. Discriminatie kan plaatsvinden op basis van geslacht, etnische afkomst, religie, leeftijd, seksuele geaardheid, of een handicap. Hierdoor krijgen sommige studenten minder kans op een eerlijke stageplek of ervaren ze ongelijkheid tijdens hun stage.</p>
+</section>
+
+<section id="wie">
+    <h2>Wie worden getroffen door Stagediscriminatie?</h2>
+    <p>Stagediscriminatie kan iedereen treffen, maar sommige groepen lopen een hoger risico. Dit zijn onder andere:</p>
+    <ul>
+        <li>Studenten met een migratieachtergrond, die soms worden beoordeeld op hun naam of uiterlijk in plaats van hun vaardigheden.</li>
+        <li>Vrouwen, vooral in technische of mannelijke gedomineerde sectoren.</li>
+        <li>LGBTQ+ studenten, die te maken kunnen krijgen met vooroordelen over hun seksuele geaardheid of genderidentiteit.</li>
+        <li>Studenten met een fysieke of mentale beperking, die vaak onderschat worden in hun capaciteiten.</li>
+        <li>Oudere studenten, die buiten de gebruikelijke leeftijdsgroep voor stages vallen en gediscrimineerd worden op basis van hun leeftijd.</li>
+    </ul>
+</section>
+
+<section id="waar">
+    <h2>Waar komt stagediscriminatie voor?</h2>
+    <p>Stagediscriminatie kan voorkomen in elke sector, maar het komt vaker voor in bepaalde beroepsgroepen. In sectoren zoals de IT, techniek, en bouw komen vrouwen vaak minder aan bod, terwijl in de zorg en het onderwijs mannen soms worden achtergesteld. Het kan ook voorkomen in grote bedrijven die een formeel selectieproces hebben, maar ook in kleinere organisaties die minder toezicht hebben op hun aannamebeleid.</p>
+</section>
+
+<section id="wanneer">
+    <h2>Wanneer gebeurt stagediscriminatie?</h2>
+    <p>Stagediscriminatie kan op verschillende momenten tijdens het stageproces plaatsvinden:</p>
+    <ul>
+        <li>**Voor de stage**: Tijdens het selectieproces, bijvoorbeeld bij het beoordelen van cv’s of tijdens sollicitatiegesprekken.</li>
+        <li>**Tijdens de stage**: Studenten kunnen ongelijk worden behandeld, bijvoorbeeld door het krijgen van minder verantwoordelijkheden of onterecht bekritiseerd te worden.</li>
+        <li>**Na de stage**: Discriminatie kan ook optreden als stagiaires geen eerlijke kans krijgen op een vast contract na het voltooien van hun stage.</li>
+    </ul>
+</section>
+
+<section id="gevolgen">
+    <h2>Gevolgen van Stagediscriminatie</h2>
+    <p>De gevolgen van stagediscriminatie kunnen vergaand zijn, zowel voor de studenten als voor de maatschappij:</p>
+    <ul>
+        <li>**Minder Kansen**: Studenten die worden gediscrimineerd, krijgen vaak minder kansen om hun vaardigheden te ontwikkelen en hun carrière te starten.</li>
+        <li>**Minder Diversiteit**: Discriminatie leidt tot een minder diverse werkplek, wat kan resulteren in een minder creatieve en innovatieve werkomgeving.</li>
+        <li>**Psychologische Impact**: Studenten die te maken hebben met discriminatie kunnen last krijgen van een laag zelfbeeld, stress, en gevoelens van uitsluiting.</li>
+        <li>**Ongelijkheid op de arbeidsmarkt**: Stagediscriminatie draagt bij aan bestaande ongelijkheden op de arbeidsmarkt, waardoor bepaalde groepen minder snel carrière kunnen maken.</li>
+    </ul>
+</section>
+
+<section id="oplossingen">
+    <h2>Hoe kunnen we stagediscriminatie tegengaan?</h2>
+    <p>Er zijn verschillende manieren om stagediscriminatie aan te pakken en te voorkomen:</p>
+    <ul>
+        <li>**Anoniem Solliciteren**: Door cv’s anoniem te maken, worden kandidaten niet beoordeeld op hun naam, geslacht, of afkomst, maar puur op hun kwalificaties.</li>
+        <li>**Bewustwordingstrainingen**: Bedrijven kunnen trainingen aanbieden om vooroordelen en onbewuste discriminatie te verminderen. Hierdoor leren werkgevers objectief naar kandidaten te kijken.</li>
+        <li>**Diversiteitsbeleid**: Organisaties kunnen diversiteitsbeleid implementeren om ervoor te zorgen dat er een eerlijke en inclusieve werkomgeving is voor iedereen.</li>
+        <li>**Monitoring en Toezicht**: Het instellen van duidelijke protocollen voor het melden en aanpakken van discriminatiegevallen kan helpen om stagediscriminatie te voorkomen en bestrijden.</li>
+    </ul>
+</section>
+
+<!-- Contact sectie bovenaan -->
+<section id="contact" class="contact-section">
+    <h2>Contact</h2>
+    <p>Heb je vragen over stagediscriminatie of wil je hulp bij het aanpakken van een probleem? Neem dan contact op via <a href="mailto:info@stagediscriminatie.nl">info@stagediscriminatie.nl</a>.</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Stagediscriminatie Informatie | Alle rechten voorbehouden</p>
+</footer>
+
+</body>
+</html>
